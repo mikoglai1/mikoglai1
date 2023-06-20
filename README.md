@@ -1,2 +1,1 @@
-mikoglai1
-[🇷🇺]
+https://github.com/mikoglai1
